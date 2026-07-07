@@ -58,15 +58,10 @@ DevOps & Cloud
 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AshwasCODER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwasCODER&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="195"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwasCODER&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-<br/>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwasCODER&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AshwasCODER&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ⚠️ Replace AshwasCODER in every image URL above with your exact GitHub username — the widgets only render data if the username matches precisely.
