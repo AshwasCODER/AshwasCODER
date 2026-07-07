@@ -72,7 +72,7 @@ DevOps & Cloud
 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AshwasCODER/AshwasCODER/output/github-contribution-grid-snake.svg" width="95%"/>
+
 </div>
 
 🔧 This animated snake eats your contribution graph, but it needs a one-time GitHub Actions setup. Add platane/snk as a workflow in your profile repo — I can generate that workflow file for you if you'd like.
