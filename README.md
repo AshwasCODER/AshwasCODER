@@ -1,112 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ashwas</h1>
-<h3 align="center">Software Developer crafting elegant, scalable solutions</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Clean+Code+Enthusiast;Cloud+%26+DevOps+Explorer;Always+Building+Something+New" alt="Typing SVG" />
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:8E2DE2&height=220&section=header&text=Hi%20There,%20I'm%20Ashwas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20Scalable%20Digital%20Experiences&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E86DE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Clean+Code+%26+Scalable+Architecture;Cloud+%26+DevOps+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+<br/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
+<img src="https://komarev.com/ghpvc/?username=AshwasCODER&style=for-the-badge&color=2E86DE&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+<br/>
 👋 About Me
 
 I'm a dedicated software developer with a passion for building scalable, user-centric applications. I specialize in writing robust, maintainable code that bridges the gap between complex problems and clean solutions. When I'm not coding, I'm exploring new technologies and contributing to meaningful projects.
 
+txtconst ashwas = {
+    role: "Full-Stack Developer",
+    focus: ["Scalable Systems", "Clean Code", "Cloud Architecture"],
+    currentlyLearning: ["System Design", "AI/ML Integration", "Web3"],
+    funFact: "I turn messy problems into elegant, maintainable code"
+};
 
-🔭 Currently building full-stack applications with modern tech stacks
-🌱 Currently learning system design, cloud architecture & AI/ML integration
-💬 Ask me about JavaScript, React, Node.js, and cloud deployments
-⚡ Fun fact: I enjoy turning messy problems into clean, elegant code
-
-
-
+<br/>
 🛠️ Tech Stack
 
+<div align="center">
 Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
+<br/><br/>
+
 Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<br/><br/>
+
 Backend
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+<br/><br/>
+
 Databases
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+<br/><br/>
+
 DevOps & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,aws,gcp,azure&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-</p>
-
+</div>
+<br/>
 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwasCODER&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwasCODER&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwasCODER&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshwasCODER&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AshwasCODER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwasCODER&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="195"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwasCODER&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwasCODER&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<br/><br/>
 
-Replace AshwasCODER in the URLs above with your exact GitHub username if it differs.
+<img src="https://github-profile-trophy.vercel.app/?username=AshwasCODER&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+⚠️ Replace AshwasCODER in every image URL above with your exact GitHub username — the widgets only render data if the username matches precisely.
 
 
 
+<br/>
+🐍 Contribution Snake
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/AshwasCODER/AshwasCODER/output/github-contribution-grid-snake.svg" width="95%"/>
+</div>
+
+🔧 This animated snake eats your contribution graph, but it needs a one-time GitHub Actions setup. Add platane/snk as a workflow in your profile repo — I can generate that workflow file for you if you'd like.
+
+
+
+<br/>
 🎯 Featured Projects
 
-ProjectDescriptionTech StackProject NameShort one-line description of what it does and the problem it solvesReact, Node.js, PostgreSQLProject NameShort one-line description of what it does and the problem it solvesPython, FastAPI, DockerProject NameShort one-line description of what it does and the problem it solvesNext.js, MongoDB, AWS
+<div align="center">
+ProjectDescriptionStack🚀Project OneOne-line description of the problem it solvesReact Node.js PostgreSQL⚡Project TwoOne-line description of the problem it solvesPython FastAPI Docker🌐Project ThreeOne-line description of the problem it solvesNext.js MongoDB AWS
+
+</div>
+
+📌 Pin your top 4–6 repositories from your GitHub profile settings so they appear automatically below this section — then update the table with your real links and descriptions.
 
 
-📌 Pin your best repositories on your GitHub profile for them to show automatically — replace the table above with your real project links and descriptions.
 
-
-
-
+<br/>
 🌱 Currently Learning
 
-
-Advanced system design patterns
-Cloud architecture best practices
-AI/ML integration in modern applications
-Web3 and blockchain fundamentals
-
-
-
+<div align="center">
+<img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_Architecture-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%2FML_Integration-A66DD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web3_%26_Blockchain-FFD93D?style=for-the-badge" />
+</div>
+<br/>
 💼 Professional Highlights
 
 
@@ -117,17 +116,16 @@ Web3 and blockchain fundamentals
 ✅ Open to freelance work, collaborations, and full-time opportunities
 
 
-
+<br/>
+<div align="center">
 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" /></a>
-</p>
-<p align="center">⭐ Feel free to explore my repositories and reach out — always open to interesting conversations and collaborations!</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshwasCODER&style=flat-square&color=2E86DE" alt="Profile views" />
-</p>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" /></a>
+
+⭐ Feel free to explore my repositories and reach out — always open to interesting conversations and collaborations!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E86DE&height=100&section=footer" width="100%"/>
 </div>
